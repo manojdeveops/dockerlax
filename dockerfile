@@ -1,6 +1,6 @@
 ---
 - name: Install Nginx web Server
-  hosts: 192.168.183.155
+  hosts: 192.168.136.143
   become: true
   tasks:
 
